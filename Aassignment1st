@@ -1,5 +1,4 @@
 #Task 1
-#adding random comments-just ignore!!!
 #Creating tree directory
 
 mkdir -p a/{b/{d/{i/m/z,j/l/z},e/h/l/z},c/{f/h/l/z,g/k/l/z}}
