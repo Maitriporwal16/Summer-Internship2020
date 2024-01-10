@@ -1,7 +1,5 @@
 #Task 1
 #Creating tree directory
-#adding this line for testing!!
-#Adding new line of comment
 mkdir -p a/{b/{d/{i/m/z,j/l/z},e/h/l/z},c/{f/h/l/z,g/k/l/z}}
 
 #Task 2
