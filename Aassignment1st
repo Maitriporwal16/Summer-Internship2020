@@ -18,8 +18,6 @@ sudo ln -s /bin/date /home/ maitri/bin/
 sudo chattr +i /home/ maitri/.bashrc
 sudo chmod -x /usr/bin/date
 
-
-
 #Task 3
 #Creating 2 users and copying data between them without using sudo
 
@@ -42,9 +40,6 @@ scp fileA B@localhost:/home/B/
 scp -r folderA B@localhost:/home/B/
 exit
 ls /home/B/
-
-
-
 
 #Task 4
 #Run loop for 10 seconds and save ouput of cal command in file and also count number of iterations
