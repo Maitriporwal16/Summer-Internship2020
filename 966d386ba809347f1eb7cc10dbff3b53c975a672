@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3a38532f_06fc3eff",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-03-14T06:10:53Z",
+      "side": 1,
+      "message": "Checked. The revert message is shown in Github also",
+      "revId": "966d386ba809347f1eb7cc10dbff3b53c975a672",
+      "serverId": "569f109c-7b67-48dc-a1c4-c4c225c15c7e"
+    }
+  ],
   "submitRequirementResults": []
 }
